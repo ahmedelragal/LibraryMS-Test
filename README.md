@@ -8,7 +8,7 @@
 7. run command to populate database -> php artisan db:seed
 8. run command to start server -> php artisan serve
 9. Test Using http://127.0.0.1:8000/api/documentation  or  using Postman
-## Note:
-Add following headers in Postman if json responses arent being displayed
+## Note: Add following headers in Postman if json responses arent being displayed
 Content-Type:application/json
+
 Accept:application/json
